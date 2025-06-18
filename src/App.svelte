@@ -5,5 +5,5 @@
 </script>
 
 <div>
-  <h1 class="text-14">GOOOOOOOOOOO</h1>
+  <h1 class="text-9 font-bold">Générateur de factures</h1>
 </div>
