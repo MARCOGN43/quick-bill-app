@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@unocss/preset-wind4": "^66.2.3",
     "svelte": "^5.28.1",
     "unocss": "^66.2.3",
     "vite": "^6.3.5"
