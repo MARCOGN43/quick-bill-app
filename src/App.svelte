@@ -1,9 +1,8 @@
 <script>
-  import svelteLogo from './assets/svelte.svg'
-  import viteLogo from '/vite.svg'
-  import Counter from './lib/Counter.svelte'
+  import Input from "./ui/Input.svelte";
 </script>
 
-<div>
+<div class="flex items-center flex-col w-full">
   <h1 class="text-9 font-bold">Générateur de factures</h1>
+  <Input type="text" name="input" id="name" label="Numéro de la facture" placeholder="Ex:20" />
 </div>
